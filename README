@@ -1,0 +1,4 @@
+This is an encryption/decryption program that utilizes the RSA algorithm to encrypt and decrypt the contents of plaintext.txt. 
+
+To use Encrypt, run "java Encrypt plaintext.txt key.txt" and it will give an output file called encrypted.
+You can then run Decrypt with "java Decrypt encrypted key.txt" and it will output a file called decrypted, which contains the same text as plaintext.
